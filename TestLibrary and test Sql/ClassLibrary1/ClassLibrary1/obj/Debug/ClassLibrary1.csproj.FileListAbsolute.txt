@@ -1,0 +1,6 @@
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fedor\OneDrive\Рабочий стол\Учеба\Тестовое задание\TestLibrary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
