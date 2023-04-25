@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyLibrary
+namespace FigursLibrary
 {
-    public class FigursLibrary
+    public class Circles
     {
         static public double Circle(int Radius)
         {
             double ans = Math.Round(Math.PI * Math.Pow(Radius, 2), 2);
             return ans;
         }
+    }
+    public class Triangles
+    {
         public static string TriangleType(int a, int b, int c)
         {
             string ans = "Ошибка условий";
